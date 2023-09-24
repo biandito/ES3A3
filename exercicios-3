@@ -1,10 +1,12 @@
 Lista de Exercícios – Engenharia de Software 3
 
 1. O que é um projeto de software ?
-Um projeto de software consiste em um modelo ou representação do software e contem uma descrição da organização do software, desde estruturas, dados, interfaces até algoritmos. É uma etapa iterativa do processo de desenvolvimento, visto que geralmente existem alterações ao longo do processo.
+Um projeto de software consiste em um modelo ou representação do software e contem uma descrição da organização do software, desde estruturas, dados, 
+interfaces até algoritmos. É uma etapa iterativa do processo de desenvolvimento, visto que geralmente existem alterações ao longo do processo.
 
 2. Descreva as características de uma metodologia de desenvolvimento de software tradicional e uma metodologia de desenvolvimento de software ágil.
-Uma arquitetura tradicional segue etapas bem definidas desde o inicio do projeto, seguindo um modelo sequencial focando no resultado final; a metodologia ágil já é mais flexível, são realizadas entregas constantes até chegar ao final do projeto, com controle de mudanças. 
+Uma arquitetura tradicional segue etapas bem definidas desde o inicio do projeto, seguindo um modelo sequencial focando no resultado final; a metodologia
+ágil já é mais flexível, são realizadas entregas constantes até chegar ao final do projeto, com controle de mudanças. 
 
 3. Com relação ao processo de desenvolvimento de software descreva as principais características das entradas do projeto, atividades de projeto e saídas do projeto.
 Entrada: plataforma, descrição dos dados e especificação dos dados;
@@ -15,7 +17,8 @@ Saída: depende de acordo com sistema, pode ser documento detalhado ou até desc
 A arquitetura de software é onde será observado os componentes, propriedades e relações entre componentes visíveis. É um escopo do sistema a ser desenvolvido.
 
 5. Explique por que a arquitetura de software é importante?
-Grande facilitador para a comunicação entre os stakeholders de um projeto. É de extrema importância para verificar se os requisitos estão condizentes, afetando-os e tem grande impacto desde o início do projeto. Nessa etapa é possível analisar e reconsiderar escolhas de forma segura.
+Grande facilitador para a comunicação entre os stakeholders de um projeto. É de extrema importância para verificar se os requisitos estão condizentes, 
+afetando-os e tem grande impacto desde o início do projeto. Nessa etapa é possível analisar e reconsiderar escolhas de forma segura.
 
 6. Quais são as principais questões que devem ser discutidas sobre as decisões de projeto de arquitetura ?
 1. Existe uma arquitetura genérica de alguma outra aplicação que pode servir de modelo
@@ -29,7 +32,8 @@ sistema?
 7. Como o projeto de arquitetura será avaliado?
 8. Como a arquitetura do sistema deve ser documentada?
 
-7. Com relação as visões da arquitetura de software descrevas as principais caraterísticas da visão lógica, visão de processo, visão de desenvolvimento e visão física ?
+7. Com relação as visões da arquitetura de software descrevas as principais caraterísticas da visão lógica, visão de processo, visão de desenvolvimento e 
+visão física ?
 A visão lógica consiste da divisão do sistema entre módulos e pacotes, com suas classes, responsabilidades e relacionamentos por meio de diagramas de pacotes e de classes; a visão de processo foca  na comunicação em tempo de execução dos processos do sistema por diagramas de sequência ou comunicação; a visão de desenvolvimento descreve a maneira que a implementação ocorrerá de acordo com a visão lógica por meio de  diagramas de sequência ou comunicação e por fim a visão física utiliza diagrama de implantação para a configuração da rede física onde o software será implantado. 
 8. Qual a importância da documentação arquitetural?
 A documentação de arquitetura serve para o registro de decisões e suas comunicações, com informações técnicas sobre os componentes de software e as tecnologias a serem utilizadas.
